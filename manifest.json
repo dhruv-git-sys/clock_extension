@@ -1,0 +1,16 @@
+{
+    "manifest_version":3,
+    "name":"Hunt Clock Begins",
+    "version":"1.0",
+    "description":"A custom new tab with a clock and John Wick theme",
+    "chrome_url_overrides":{
+        "newtab":"index.html"
+    },
+    "icons":{
+        "128":"icon.jpg"
+    },
+    "permissions":[],
+    "action":{
+        "default_title":"Hunt Begins"
+    }
+}
