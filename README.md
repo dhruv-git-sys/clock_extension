@@ -1,5 +1,7 @@
 # Hunt Begins - Clock Extension
 
+![Screenshot](screenshot.png)
+
 A visually engaging clock extension inspired by the John Wick universe. This project features a digital clock, animated visuals, and background music to create an immersive experience.
 
 ## Features
